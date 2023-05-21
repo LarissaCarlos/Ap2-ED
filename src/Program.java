@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Program {
 
         public static void main(String[] args) {
-            List list = new List();
+            LinkedList list = new LinkedList();
             Scanner scanner = new Scanner(System.in);
             int choice = 0;
             while (choice != 7) {
